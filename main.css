@@ -94,7 +94,7 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
 }
-.body .calculator ul li input[type="text"]
+.body .calculator ul li input[type="number"]
 {
     font-family: 'Roboto', sans-serif;
     outline: none;
